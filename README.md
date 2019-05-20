@@ -1,16 +1,8 @@
 # fullscreencam
 
-A new Flutter application.
+A Flutter/Dart application for showing the camera preview of your device.
+It's using the Camera Plugin (https://pub.dev/packages/camera) with "Copyright 2017 The Chromium Authors. All rights reserved" (https://github.com/flutter/plugins/blob/master/packages/camera/LICENSE)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Get Android Studio and the flutter- and dart-plugins. Now you should be able to build an APK (tested on Android only) to show just the camera preview in fullscreen. 
